@@ -1,8 +1,8 @@
-Hey there Im Riggsee! 
+Hey there Im **Riggsee**! 
 
-Software engineer specializing in SQL and AWS. 
-Hobbyist programmer with things like FiveM, Discord, and more. 
-In the process of self learning LUA and Python. 
+<br>Software engineer specializing in SQL and AWS. </br>
+<br>Hobbyist programmer with things like FiveM, Discord, and more. </br>
+<br>In the process of self learning LUA and Python. </br>
 
-Experience with Java, Ruby, and Rust. 
-Proficiency in SQL.
+<br>Experience with Java, Ruby, and Rust.</br> 
+<br>Proficiency in SQL.</br>
